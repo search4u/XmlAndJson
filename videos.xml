@@ -1,0 +1,27 @@
+<videos>
+	<video id="1">
+		<name>lesson1</name>
+		<author>hellen</author>
+		<type>technology</type>
+	</video>
+	<video id="2">
+		<name>lesson2</name>
+		<author>hellen</author>
+		<type>technology</type>
+	</video>
+	<video id="3">
+		<name>lesson3</name>
+		<author>hellen</author>
+		<type>technology</type>
+	</video>
+	<video id="4">
+		<name>lesson4</name>
+		<author>hellen</author>
+		<type>technology</type>
+	</video>
+	<video id="5">
+		<name>lesson5</name>
+		<author>hellen</author>
+		<type>technology</type>
+	</video>
+</videos>
